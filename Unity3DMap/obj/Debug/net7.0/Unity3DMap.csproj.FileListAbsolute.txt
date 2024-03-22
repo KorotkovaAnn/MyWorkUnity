@@ -1,0 +1,15 @@
+/Users/an.kornn/Projects/Unity3DMap/Unity3DMap/bin/Debug/net7.0/Unity3DMap
+/Users/an.kornn/Projects/Unity3DMap/Unity3DMap/bin/Debug/net7.0/Unity3DMap.deps.json
+/Users/an.kornn/Projects/Unity3DMap/Unity3DMap/bin/Debug/net7.0/Unity3DMap.runtimeconfig.json
+/Users/an.kornn/Projects/Unity3DMap/Unity3DMap/bin/Debug/net7.0/Unity3DMap.dll
+/Users/an.kornn/Projects/Unity3DMap/Unity3DMap/bin/Debug/net7.0/Unity3DMap.pdb
+/Users/an.kornn/Projects/Unity3DMap/Unity3DMap/obj/Debug/net7.0/Unity3DMap.csproj.AssemblyReference.cache
+/Users/an.kornn/Projects/Unity3DMap/Unity3DMap/obj/Debug/net7.0/Unity3DMap.GeneratedMSBuildEditorConfig.editorconfig
+/Users/an.kornn/Projects/Unity3DMap/Unity3DMap/obj/Debug/net7.0/Unity3DMap.AssemblyInfoInputs.cache
+/Users/an.kornn/Projects/Unity3DMap/Unity3DMap/obj/Debug/net7.0/Unity3DMap.AssemblyInfo.cs
+/Users/an.kornn/Projects/Unity3DMap/Unity3DMap/obj/Debug/net7.0/Unity3DMap.csproj.CoreCompileInputs.cache
+/Users/an.kornn/Projects/Unity3DMap/Unity3DMap/obj/Debug/net7.0/Unity3DMap.dll
+/Users/an.kornn/Projects/Unity3DMap/Unity3DMap/obj/Debug/net7.0/refint/Unity3DMap.dll
+/Users/an.kornn/Projects/Unity3DMap/Unity3DMap/obj/Debug/net7.0/Unity3DMap.pdb
+/Users/an.kornn/Projects/Unity3DMap/Unity3DMap/obj/Debug/net7.0/Unity3DMap.genruntimeconfig.cache
+/Users/an.kornn/Projects/Unity3DMap/Unity3DMap/obj/Debug/net7.0/ref/Unity3DMap.dll
